@@ -12,7 +12,7 @@ Brute.X
 ## Usage
 ```
   1. apt install python3
-  2. git clone https://github.com/victorpreston/bruteX.git
+  2. git clone https://github.com/YoshiHack/HackPack/tree/main/AirAttack/BruteX
   3. cd bruteX
   4. ls
   5. pip install -r requirements.txt
