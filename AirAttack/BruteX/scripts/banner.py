@@ -43,7 +43,7 @@ def author_info():
         random_color,
         "\n" + "|" + Style.BRIGHT + Fore.LIGHTCYAN_EX,
         "- " * 4,
-        "[+] LinkedIn: Victor Preston ",
+        "[+] Instagram: Jacksonogrophy ",
         "- " * 11 + random_color + "|",
     )
     print(
@@ -57,7 +57,7 @@ def author_info():
         random_color,
         "\n" + "|" + Style.BRIGHT + Fore.LIGHTRED_EX,
         "- " * 4,
-        "[+] Github: https://github.com/victorpreston ",
+        "[+] Github: https://github.com/YoshiHack ",
         "- " * 3 + random_color + "|",
     )
     print(random_color + "-" * 63)
